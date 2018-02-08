@@ -8,6 +8,7 @@
     <div class="container-fluid">
    		<h2>Aquarium assistant</h2>
    		<li><b>Feature 1 :</b> Volume Calculation</li>
+   		<li><b>Feature 2 :</b> Unit Converters</li>
     </div>
    
     <?php require_once "include/footer_html.php"; ?>
