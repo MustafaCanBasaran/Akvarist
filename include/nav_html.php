@@ -17,6 +17,12 @@
             <span class="nav-link-text">Volume Calculation</span>
           </a>
         </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Unit Converters">
+          <a class="nav-link" href="unitconverters.php">
+            <i class="fa fa-fw fa-exchange"></i>
+            <span class="nav-link-text">Unit Converters</span>
+          </a>
+        </li>
       </ul>
       <ul class="navbar-nav sidenav-toggler">
         <li class="nav-item">
